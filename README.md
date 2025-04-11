@@ -6,4 +6,14 @@ All course materials belong to [Prof. James Kurose](https://gaia.cs.umass.edu/wi
 
 ## Lab 3
 
-See [cs590ae_lab3.pdf](./cs590ae_lab3.pdf) for the lab handout.
+5G RAN Lab
+
+See [cs590ae_lab3.pdf](./lab3-5g-RAN/cs590ae_lab3.pdf) for the lab handout.
+
+## Lab 5
+
+5G Mobility Lab
+
+See [cs590ae_lab5.pdf](./lab3-5g-mobility/cs590ae_lab3.pdf) for the lab handout.
+
+
